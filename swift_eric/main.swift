@@ -7,5 +7,15 @@
 
 import Foundation
 
-print("Hello, World!")
-
+//dicionarios()
+//sets()
+//loops()
+//enums()
+//estruturas()
+//funcs()
+//arrays()
+//anotherArray()
+//errosRun()
+//customOperators()
+//classesRun()
+heranca()
